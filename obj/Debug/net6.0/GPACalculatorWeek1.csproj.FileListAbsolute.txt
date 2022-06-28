@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\bin\Debug\net6.0\GPACalculatorWeek1.exe
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\bin\Debug\net6.0\GPACalculatorWeek1.deps.json
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\bin\Debug\net6.0\GPACalculatorWeek1.runtimeconfig.json
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\bin\Debug\net6.0\GPACalculatorWeek1.dll
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\bin\Debug\net6.0\GPACalculatorWeek1.pdb
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.AssemblyInfo.cs
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.dll
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\refint\GPACalculatorWeek1.dll
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.pdb
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\GPACalculatorWeek1.genruntimeconfig.cache
+C:\Users\hp\Documents\GPACalculatorWeek1\GPACalculatorWeek1\obj\Debug\net6.0\ref\GPACalculatorWeek1.dll
