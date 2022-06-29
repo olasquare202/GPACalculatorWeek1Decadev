@@ -36,7 +36,7 @@ namespace GPACalculatorWeek1.UI
 
                     if (courseCodes[i].Length != 7)
                     {
-                        Console.WriteLine("Course code can not be empty! Input your course code once more");
+                        Console.WriteLine("Incorrect course code ! Input your course code once more");
                         error = true;
 
                     }
