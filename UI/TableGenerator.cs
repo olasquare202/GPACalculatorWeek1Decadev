@@ -9,7 +9,7 @@ namespace GPACalculatorWeek1.UI
     public class TableGenerator
     {
 
-        static int tableWidth = 120;
+        static int tableWidth = 150;
         public static void PrintLine()
         {
             Console.WriteLine(new string('-', tableWidth));

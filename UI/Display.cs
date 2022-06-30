@@ -102,10 +102,12 @@ enterScore:
 
             calculator.calc();
 
-
+            //Console.WriteLine();
             Console.Clear();
+            Console.WriteLine();
+            TableGenerator.PrintLine();
+            Console.WriteLine();
             TableGenerator.PrintRow("COURSE & CODE", "COURSE UNIT", " GRADE", "GRADE - UNIT", "WEIGHT Pt.", "REMARK");
-
 
             for (var i = 0; i < n; i++)
             {
@@ -118,8 +120,7 @@ enterScore:
                     calculator.getweightPoint(courseUnit[i],calculator.getGradeUnit(calculator.grade[i].ToString())).ToString(),
                     calculator.remark[i].ToString()
                 };
-
-
+                
                 TableGenerator.PrintLine();
                 TableGenerator.PrintRow(newRow);
 
